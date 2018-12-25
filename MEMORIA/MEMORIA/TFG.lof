@@ -60,9 +60,9 @@
 \contentsline {figure}{\numberline {3.22}{\ignorespaces Serial communication example.\relax }}{73}{figure.caption.80}
 \contentsline {figure}{\numberline {3.23}{\ignorespaces Separation microcontroller-FPGA.\relax }}{74}{figure.caption.81}
 \contentsline {figure}{\numberline {3.24}{\ignorespaces Inner diagram Arduino Nano.\relax }}{75}{figure.caption.83}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Flow diagram to send angle.\relax }}{75}{figure.caption.84}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Correction angle in Self-Balance Robot.\relax }}{76}{figure.caption.85}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces Appearance of Arduino Nano module in IceStudio.\relax }}{77}{figure.caption.87}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Flow diagram to send angle.\relax }}{76}{figure.caption.84}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Correction angle in Self-Balance Robot.\relax }}{77}{figure.caption.85}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Appearance of Arduino Nano module in IceStudio.\relax }}{78}{figure.caption.87}
 \contentsline {figure}{\numberline {3.28}{\ignorespaces Flow diagram for Arduino interface.\relax }}{79}{figure.caption.88}
 \contentsline {figure}{\numberline {3.29}{\ignorespaces Module to arrange data from Arduino.\relax }}{81}{figure.caption.89}
 \contentsline {figure}{\numberline {3.30}{\ignorespaces Flow diagram to arrange bytes.\relax }}{82}{figure.caption.90}

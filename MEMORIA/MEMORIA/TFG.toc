@@ -45,7 +45,7 @@
 \contentsline {subsection}{\numberline {3.3.3}PCB Implementation}{63}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}IceZum Alhambra-Arduino Nano Implementation}{72}{subsection.3.3.4}
 \contentsline {subsubsection}{Microcontroller POV}{74}{section*.82}
-\contentsline {subsubsection}{FPGA POV}{77}{section*.86}
+\contentsline {subsubsection}{FPGA POV}{78}{section*.86}
 \contentsline {subsection}{\numberline {3.3.5}PID Control in IceZum Alhambra}{84}{subsection.3.3.5}
 \contentsline {subsubsection}{P Controller}{84}{section*.92}
 \contentsline {subsubsection}{D Controller}{86}{section*.95}
