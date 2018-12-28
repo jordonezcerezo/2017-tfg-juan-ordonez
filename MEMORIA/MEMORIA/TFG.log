@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.21)  27 DEC 2018 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.21)  28 DEC 2018 18:16
 entering extended mode
 **./TFG.tex
 (TFG.tex
@@ -1493,21 +1493,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_Robot/final.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_Robot/final.pdf, id=1326, 845.1575pt x 598.235pt>
+<imagenes/Balancing_Robot/final.pdf, id=1326, 845.1575pt x 597.23125pt>
 File: imagenes/Balancing_Robot/final.pdf Graphic file (type pdf)
 <use imagenes/Balancing_Robot/final.pdf>
 Package pdftex.def Info: imagenes/Balancing_Robot/final.pdf  used on input line
  41.
-(pdftex.def)             Requested size: 845.15544pt x 598.23354pt.
+(pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 [57 <./imagenes/Balancing_Robot/final.pdf>]
-<imagenes/Balancing_Robot/EnsanBalanceFront.PDF, id=1363, 845.0471pt x 597.5082
+<imagenes/Balancing_Robot/EnsanBalanceFront.PDF, id=1361, 845.0471pt x 597.5082
 9pt>
 File: imagenes/Balancing_Robot/EnsanBalanceFront.PDF Graphic file (type pdf)
 <use imagenes/Balancing_Robot/EnsanBalanceFront.PDF>
 Package pdftex.def Info: imagenes/Balancing_Robot/EnsanBalanceFront.PDF  used o
 n input line 60.
 (pdftex.def)             Requested size: 739.77023pt x 597.50682pt.
-<imagenes/Balancing_Robot/EnsanBalanceLateral.PDF, id=1365, 845.0471pt x 597.50
+<imagenes/Balancing_Robot/EnsanBalanceLateral.PDF, id=1363, 845.0471pt x 597.50
 829pt>
 File: imagenes/Balancing_Robot/EnsanBalanceLateral.PDF Graphic file (type pdf)
 <use imagenes/Balancing_Robot/EnsanBalanceLateral.PDF>
@@ -1515,7 +1515,7 @@ Package pdftex.def Info: imagenes/Balancing_Robot/EnsanBalanceLateral.PDF  used
  on input line 69.
 (pdftex.def)             Requested size: 418.25476pt x 597.50682pt.
  [58 <./imagenes/Balancing_Robot/EnsanBalanceFront.PDF>]
-<imagenes/Balancing_Robot/EnsanBalanceCab.PDF, id=1376, 845.0471pt x 597.50829p
+<imagenes/Balancing_Robot/EnsanBalanceCab.PDF, id=1374, 845.0471pt x 597.50829p
 t>
 File: imagenes/Balancing_Robot/EnsanBalanceCab.PDF Graphic file (type pdf)
 <use imagenes/Balancing_Robot/EnsanBalanceCab.PDF>
@@ -1527,7 +1527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
-<imagenes/Balancing_robot/center_mass.png, id=1387, 1047.915pt x 592.46344pt>
+<imagenes/Balancing_robot/center_mass.png, id=1385, 1047.915pt x 592.46344pt>
 File: imagenes/Balancing_robot/center_mass.png Graphic file (type png)
 <use imagenes/Balancing_robot/center_mass.png>
 Package pdftex.def Info: imagenes/Balancing_robot/center_mass.png  used on inpu
@@ -1548,7 +1548,7 @@ File: imagenes/Balancing_robot/IMU1.jpg Graphic file (type jpg)
 Package pdftex.def Info: imagenes/Balancing_robot/IMU1.jpg  used on input line 
 107.
 (pdftex.def)             Requested size: 130.48518pt x 130.48518pt.
-<imagenes/Balancing_robot/MPU6050_schematic.png, id=1398, 617.30624pt x 359.091
+<imagenes/Balancing_robot/MPU6050_schematic.png, id=1396, 617.30624pt x 359.091
 57pt>
 File: imagenes/Balancing_robot/MPU6050_schematic.png Graphic file (type png)
 <use imagenes/Balancing_robot/MPU6050_schematic.png>
@@ -1564,7 +1564,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/DMPexample.pdf): 
 PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/DMPexample.pdf, id=1404, 599.23875pt x 847.165pt>
+<imagenes/Balancing_robot/DMPexample.pdf, id=1402, 599.23875pt x 847.165pt>
 File: imagenes/Balancing_robot/DMPexample.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/DMPexample.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/DMPexample.pdf  used on input
@@ -1585,14 +1585,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
-<imagenes/Balancing_robot/pin_headers.PNG, id=1415, 566.86781pt x 472.76625pt>
+<imagenes/Balancing_robot/pin_headers.PNG, id=1413, 566.86781pt x 472.76625pt>
 File: imagenes/Balancing_robot/pin_headers.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/pin_headers.PNG>
 Package pdftex.def Info: imagenes/Balancing_robot/pin_headers.PNG  used on inpu
 t line 149.
 (pdftex.def)             Requested size: 226.7431pt x 189.10315pt.
 [63 <./imagenes/Balancing_robot/DMPexample.pdf>]
-<imagenes/Balancing_robot/SCREW.PNG, id=1440, 346.29375pt x 398.08725pt>
+<imagenes/Balancing_robot/SCREW.PNG, id=1438, 346.29375pt x 398.08725pt>
 File: imagenes/Balancing_robot/SCREW.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/SCREW.PNG>
 Package pdftex.def Info: imagenes/Balancing_robot/SCREW.PNG  used on input line
@@ -1602,7 +1602,7 @@ Package pdftex.def Info: imagenes/Balancing_robot/SCREW.PNG  used on input line
 
 LaTeX Warning: Reference `sec:Bateria' on page 64 undefined on input line 165.
 
-<imagenes/Balancing_robot/mpu6050_connector.PNG, id=1442, 587.19376pt x 335.001
+<imagenes/Balancing_robot/mpu6050_connector.PNG, id=1440, 587.19376pt x 335.001
 56pt>
 File: imagenes/Balancing_robot/mpu6050_connector.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/mpu6050_connector.PNG>
@@ -1611,7 +1611,7 @@ n input line 171.
 (pdftex.def)             Requested size: 234.87334pt x 133.99825pt.
 [64 <./imagenes/Balancing_robot/pin_headers.PNG> <./imagenes/Balancing_robot/SC
 REW.PNG>]
-<imagenes/Balancing_robot/jumpers.PNG, id=1450, 423.83344pt x 505.13719pt>
+<imagenes/Balancing_robot/jumpers.PNG, id=1448, 423.83344pt x 505.13719pt>
 File: imagenes/Balancing_robot/jumpers.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/jumpers.PNG>
 Package pdftex.def Info: imagenes/Balancing_robot/jumpers.PNG  used on input li
@@ -1619,26 +1619,26 @@ ne 182.
 (pdftex.def)             Requested size: 127.151pt x 151.54233pt.
  [65 <./imagenes/Balancing_robot/mpu6050_connector.PNG> <./imagenes/Balancing_r
 obot/jumpers.PNG>]
-<imagenes/Balancing_Robot/top_3D.PNG, id=1462, 546.24075pt x 463.7325pt>
+<imagenes/Balancing_Robot/top_3D.PNG, id=1460, 546.24075pt x 463.7325pt>
 File: imagenes/Balancing_Robot/top_3D.PNG Graphic file (type png)
 <use imagenes/Balancing_Robot/top_3D.PNG>
 Package pdftex.def Info: imagenes/Balancing_Robot/top_3D.PNG  used on input lin
 e 199.
 (pdftex.def)             Requested size: 327.74698pt x 278.24164pt.
-<imagenes/Balancing_Robot/bottom_3D.PNG, id=1463, 511.31026pt x 416.757pt>
+<imagenes/Balancing_Robot/bottom_3D.PNG, id=1461, 511.31026pt x 416.757pt>
 File: imagenes/Balancing_Robot/bottom_3D.PNG Graphic file (type png)
 <use imagenes/Balancing_Robot/bottom_3D.PNG>
 Package pdftex.def Info: imagenes/Balancing_Robot/bottom_3D.PNG  used on input 
 line 208.
 (pdftex.def)             Requested size: 306.78851pt x 250.05612pt.
  [66 <./imagenes/Balancing_Robot/top_3D.PNG>]
-<imagenes/Balancing_Robot/Vista3D1.PNG, id=1469, 599.23875pt x 499.8675pt>
+<imagenes/Balancing_Robot/Vista3D1.PNG, id=1467, 599.23875pt x 499.8675pt>
 File: imagenes/Balancing_Robot/Vista3D1.PNG Graphic file (type png)
 <use imagenes/Balancing_Robot/Vista3D1.PNG>
 Package pdftex.def Info: imagenes/Balancing_Robot/Vista3D1.PNG  used on input l
 ine 217.
 (pdftex.def)             Requested size: 299.61864pt x 249.93314pt.
-<imagenes/Balancing_Robot/Vista3D2.PNG, id=1470, 532.99126pt x 293.29575pt>
+<imagenes/Balancing_Robot/Vista3D2.PNG, id=1468, 532.99126pt x 293.29575pt>
 File: imagenes/Balancing_Robot/Vista3D2.PNG Graphic file (type png)
 <use imagenes/Balancing_Robot/Vista3D2.PNG>
 Package pdftex.def Info: imagenes/Balancing_Robot/Vista3D2.PNG  used on input l
@@ -1647,7 +1647,7 @@ ine 226.
 
 [67 <./imagenes/Balancing_Robot/bottom_3D.PNG> <./imagenes/Balancing_Robot/Vist
 a3D1.PNG>] [68 <./imagenes/Balancing_Robot/Vista3D2.PNG>]
-<imagenes/Balancing_Robot/pcb_dron_schematic.pdf, id=1483, 845.1575pt x 597.231
+<imagenes/Balancing_Robot/pcb_dron_schematic.pdf, id=1481, 845.1575pt x 597.231
 25pt>
 File: imagenes/Balancing_Robot/pcb_dron_schematic.pdf Graphic file (type pdf)
 <use imagenes/Balancing_Robot/pcb_dron_schematic.pdf>
@@ -1675,7 +1675,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--261
  []
 
 [70]
-<imagenes/Balancing_Robot/layers_altium.PNG, id=1513, 813.79031pt x 640.64343pt
+<imagenes/Balancing_Robot/layers_altium.PNG, id=1511, 813.79031pt x 640.64343pt
 >
 File: imagenes/Balancing_Robot/layers_altium.PNG Graphic file (type png)
 <use imagenes/Balancing_Robot/layers_altium.PNG>
@@ -1701,13 +1701,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/coexistencia2.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/coexistencia2.pdf, id=1524, 794.00638pt x 614.295pt>
+<imagenes/Balancing_robot/coexistencia2.pdf, id=1522, 794.00638pt x 614.295pt>
 File: imagenes/Balancing_robot/coexistencia2.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/coexistencia2.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/coexistencia2.pdf  used on in
 put line 362.
 (pdftex.def)             Requested size: 317.59692pt x 177.42824pt.
-<imagenes/Balancing_Robot/serial_comunicattion.png, id=1527, 451.6875pt x 82.05
+<imagenes/Balancing_Robot/serial_comunicattion.png, id=1525, 451.6875pt x 82.05
 656pt>
 File: imagenes/Balancing_Robot/serial_comunicattion.png Graphic file (type png)
 
@@ -1719,7 +1719,7 @@ d on input line 377.
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/coexistencia1.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/coexistencia1.pdf, id=1529, 796.05406pt x 615.37907pt
+<imagenes/Balancing_robot/coexistencia1.pdf, id=1527, 796.05406pt x 615.37907pt
 >
 File: imagenes/Balancing_robot/coexistencia1.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/coexistencia1.pdf>
@@ -1736,7 +1736,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/coexistencia3.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/coexistencia3.pdf, id=1566, 798.985pt x 617.30624pt>
+<imagenes/Balancing_robot/coexistencia3.pdf, id=1564, 798.985pt x 617.30624pt>
 File: imagenes/Balancing_robot/coexistencia3.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/coexistencia3.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/coexistencia3.pdf  used on in
@@ -1747,7 +1747,7 @@ put line 402.
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/extraccion_angulo
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
-<imagenes/Balancing_robot/extraccion_angulo.pdf, id=1603, 601.24625pt x 849.172
+<imagenes/Balancing_robot/extraccion_angulo.pdf, id=1601, 601.24625pt x 849.172
 5pt>
 File: imagenes/Balancing_robot/extraccion_angulo.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/extraccion_angulo.pdf>
@@ -1759,7 +1759,7 @@ n input line 411.
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/angle_correction.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<imagenes/Balancing_robot/angle_correction.pdf, id=1619, 598.235pt x 846.16125p
+<imagenes/Balancing_robot/angle_correction.pdf, id=1617, 598.235pt x 846.16125p
 t>
 File: imagenes/Balancing_robot/angle_correction.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/angle_correction.pdf>
@@ -1772,7 +1772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
 
-<imagenes/Balancing_robot/arduino_interface.PNG, id=1646, 439.6425pt x 283.6597
+<imagenes/Balancing_robot/arduino_interface.PNG, id=1644, 439.6425pt x 283.6597
 4pt>
 File: imagenes/Balancing_robot/arduino_interface.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/arduino_interface.PNG>
@@ -1784,7 +1784,7 @@ n input line 456.
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/arduino_interface
 fluid.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
 llowed
-<imagenes/Balancing_robot/arduino_interfacefluid.pdf, id=1648, 847.165pt x 599.
+<imagenes/Balancing_robot/arduino_interfacefluid.pdf, id=1646, 847.165pt x 599.
 23875pt>
 File: imagenes/Balancing_robot/arduino_interfacefluid.pdf Graphic file (type pd
 f)
@@ -1812,7 +1812,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
 
-<imagenes/Balancing_robot/arrange_arduino.PNG, id=1676, 611.28375pt x 315.42844
+<imagenes/Balancing_robot/arrange_arduino.PNG, id=1674, 611.28375pt x 315.42844
 pt>
 File: imagenes/Balancing_robot/arrange_arduino.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/arrange_arduino.PNG>
@@ -1836,7 +1836,7 @@ If that doesn't work, type  X <return>  to quit.
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/arrange_angle.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/arrange_angle.pdf, id=1682, 795.97375pt x 615.29875pt
+<imagenes/Balancing_robot/arrange_angle.pdf, id=1680, 795.97375pt x 615.29875pt
 >
 File: imagenes/Balancing_robot/arrange_angle.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/arrange_angle.pdf>
@@ -1853,7 +1853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 547--548
 
  []
 
-<imagenes/Balancing_robot/arduino_arrange.PNG, id=1691, 673.76718pt x 645.91313
+<imagenes/Balancing_robot/arduino_arrange.PNG, id=1689, 673.76718pt x 645.91313
 pt>
 File: imagenes/Balancing_robot/arduino_arrange.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/arduino_arrange.PNG>
@@ -1865,13 +1865,13 @@ obot/arduino_arrange.PNG>]
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/P.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/P.pdf, id=1712, 849.1725pt x 600.2425pt>
+<imagenes/Balancing_robot/P.pdf, id=1710, 849.1725pt x 600.2425pt>
 File: imagenes/Balancing_robot/P.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/P.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/P.pdf  used on input line 570
 .
 (pdftex.def)             Requested size: 339.66298pt x 149.04553pt.
-<imagenes/Balancing_robot/Pcontrol.png, id=1715, 314.97675pt x 343.88475pt>
+<imagenes/Balancing_robot/Pcontrol.png, id=1713, 314.97675pt x 343.88475pt>
 File: imagenes/Balancing_robot/Pcontrol.png Graphic file (type png)
 <use imagenes/Balancing_robot/Pcontrol.png>
 Package pdftex.def Info: imagenes/Balancing_robot/Pcontrol.png  used on input l
@@ -1882,7 +1882,7 @@ l.png>]
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/D.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/D.pdf, id=1739, 598.235pt x 845.1575pt>
+<imagenes/Balancing_robot/D.pdf, id=1737, 598.235pt x 845.1575pt>
 File: imagenes/Balancing_robot/D.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/D.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/D.pdf  used on input line 598
@@ -1893,7 +1893,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 603--604
 
  []
 
-<imagenes/Balancing_robot/Dcontrol.png, id=1742, 303.534pt x 311.9655pt>
+<imagenes/Balancing_robot/Dcontrol.png, id=1740, 303.534pt x 311.9655pt>
 File: imagenes/Balancing_robot/Dcontrol.png Graphic file (type png)
 <use imagenes/Balancing_robot/Dcontrol.png>
 Package pdftex.def Info: imagenes/Balancing_robot/Dcontrol.png  used on input l
@@ -1901,7 +1901,7 @@ ine 610.
 (pdftex.def)             Requested size: 151.76662pt x 155.98236pt.
 [86 <./imagenes/Balancing_robot/D.pdf>] [87 <./imagenes/Balancing_robot/Dcontro
 l.png>]
-<imagenes/Balancing_robot/finalIceStudio.png, id=1779, 1143.0705pt x 458.31226p
+<imagenes/Balancing_robot/finalIceStudio.png, id=1777, 1143.0705pt x 458.31226p
 t>
 File: imagenes/Balancing_robot/finalIceStudio.png Graphic file (type png)
 <use imagenes/Balancing_robot/finalIceStudio.png>
@@ -1909,7 +1909,7 @@ Package pdftex.def Info: imagenes/Balancing_robot/finalIceStudio.png  used on i
 nput line 621.
 (pdftex.def)             Requested size: 571.53384pt x 229.15556pt.
  [88 <./imagenes/Balancing_robot/finalIceStudio.png>]
-<imagenes/Balancing_robot/pwm_example.png, id=1786, 803.0pt x 397.485pt>
+<imagenes/Balancing_robot/pwm_example.png, id=1784, 803.0pt x 397.485pt>
 File: imagenes/Balancing_robot/pwm_example.png Graphic file (type png)
 <use imagenes/Balancing_robot/pwm_example.png>
 Package pdftex.def Info: imagenes/Balancing_robot/pwm_example.png  used on inpu
@@ -1920,7 +1920,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 638--639
 
  []
 
-<imagenes/Balancing_robot/driver_motor.jpg, id=1790, 451.6875pt x 361.35pt>
+<imagenes/Balancing_robot/driver_motor.jpg, id=1788, 451.6875pt x 361.35pt>
 File: imagenes/Balancing_robot/driver_motor.jpg Graphic file (type jpg)
 <use imagenes/Balancing_robot/driver_motor.jpg>
 Package pdftex.def Info: imagenes/Balancing_robot/driver_motor.jpg  used on inp
@@ -1930,13 +1930,13 @@ ut line 653.
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/driver_motor.pdf)
 : PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/driver_motor.pdf, id=1798, 794.97pt x 614.295pt>
+<imagenes/Balancing_robot/driver_motor.pdf, id=1796, 794.97pt x 614.295pt>
 File: imagenes/Balancing_robot/driver_motor.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/driver_motor.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/driver_motor.pdf  used on inp
 ut line 661.
 (pdftex.def)             Requested size: 317.98236pt x 188.80914pt.
-<imagenes/Balancing_robot/PWM_module.PNG, id=1802, 348.70274pt x 213.79875pt>
+<imagenes/Balancing_robot/PWM_module.PNG, id=1800, 348.70274pt x 213.79875pt>
 File: imagenes/Balancing_robot/PWM_module.PNG Graphic file (type png)
 <use imagenes/Balancing_robot/PWM_module.PNG>
 Package pdftex.def Info: imagenes/Balancing_robot/PWM_module.PNG  used on input
@@ -1947,7 +1947,7 @@ river_motor.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Balancing_robot/pwm_control.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Balancing_robot/pwm_control.pdf, id=1823, 599.23875pt x 847.165pt>
+<imagenes/Balancing_robot/pwm_control.pdf, id=1821, 599.23875pt x 847.165pt>
 File: imagenes/Balancing_robot/pwm_control.pdf Graphic file (type pdf)
 <use imagenes/Balancing_robot/pwm_control.pdf>
 Package pdftex.def Info: imagenes/Balancing_robot/pwm_control.pdf  used on inpu
@@ -1975,14 +1975,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 721--722
  []
 
 [92]
-<imagenes/Balancing_Robot/LIPO111.jpg, id=1847, 266.9975pt x 190.7125pt>
+<imagenes/Balancing_Robot/LIPO111.jpg, id=1845, 266.9975pt x 190.7125pt>
 File: imagenes/Balancing_Robot/LIPO111.jpg Graphic file (type jpg)
 <use imagenes/Balancing_Robot/LIPO111.jpg>
 Package pdftex.def Info: imagenes/Balancing_Robot/LIPO111.jpg  used on input li
 ne 745.
 (pdftex.def)             Requested size: 213.59827pt x 152.57019pt.
  [93]
-<imagenes/Balancing_Robot/LIPO37.jpg, id=1855, 344.78813pt x 344.78813pt>
+<imagenes/Balancing_Robot/LIPO37.jpg, id=1853, 344.78813pt x 344.78813pt>
 File: imagenes/Balancing_Robot/LIPO37.jpg Graphic file (type jpg)
 <use imagenes/Balancing_Robot/LIPO37.jpg>
 Package pdftex.def Info: imagenes/Balancing_Robot/LIPO37.jpg  used on input lin
@@ -2013,20 +2013,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 812--813
 
  []
 
-<imagenes/Balancing_Robot/test1.jpeg, id=1874, 1204.5pt x 1606.0pt>
+<imagenes/Balancing_Robot/test1.jpeg, id=1872, 619.56468pt x 1072.005pt>
 File: imagenes/Balancing_Robot/test1.jpeg Graphic file (type jpg)
 <use imagenes/Balancing_Robot/test1.jpeg>
 Package pdftex.def Info: imagenes/Balancing_Robot/test1.jpeg  used on input lin
 e 821.
-(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
-<imagenes/Balancing_Robot/test2.jpeg, id=1875, 1606.0pt x 1204.5pt>
+(pdftex.def)             Requested size: 185.87083pt x 321.60399pt.
+<imagenes/Balancing_Robot/test2.jpeg, id=1873, 938.00438pt x 779.91376pt>
 File: imagenes/Balancing_Robot/test2.jpeg Graphic file (type jpg)
 <use imagenes/Balancing_Robot/test2.jpeg>
 Package pdftex.def Info: imagenes/Balancing_Robot/test2.jpeg  used on input lin
 e 830.
-(pdftex.def)             Requested size: 321.19432pt x 240.89574pt.
+(pdftex.def)             Requested size: 281.40349pt x 233.97594pt.
 [96 <./imagenes/Balancing_Robot/test1.jpeg>]
-<imagenes/Balancing_Robot/vga.jpeg, id=1886, 1606.0pt x 1298.8525pt>
+<imagenes/Balancing_Robot/vga.jpeg, id=1884, 1606.0pt x 1298.8525pt>
 File: imagenes/Balancing_Robot/vga.jpeg Graphic file (type jpg)
 <use imagenes/Balancing_Robot/vga.jpeg>
 Package pdftex.def Info: imagenes/Balancing_Robot/vga.jpeg  used on input line 
@@ -2044,7 +2044,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Cuadricoptero_vision/on_board.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Cuadricoptero_vision/on_board.pdf, id=1899, 844.15375pt x 597.23125pt
+<imagenes/Cuadricoptero_vision/on_board.pdf, id=1897, 844.15375pt x 597.23125pt
 >
 File: imagenes/Cuadricoptero_vision/on_board.pdf Graphic file (type pdf)
 <use imagenes/Cuadricoptero_vision/on_board.pdf>
@@ -2054,7 +2054,7 @@ put line 9.
 [99
 
  <./imagenes/Cuadricoptero_vision/on_board.pdf>] [100]
-<imagenes/Cuadricoptero_vision/OV7670.jpg, id=1934, 311.1625pt x 299.1175pt>
+<imagenes/Cuadricoptero_vision/OV7670.jpg, id=1932, 311.1625pt x 299.1175pt>
 File: imagenes/Cuadricoptero_vision/OV7670.jpg Graphic file (type jpg)
 <use imagenes/Cuadricoptero_vision/OV7670.jpg>
 Package pdftex.def Info: imagenes/Cuadricoptero_vision/OV7670.jpg  used on inpu
@@ -2066,14 +2066,14 @@ Overfull \hbox (8.08286pt too wide) in paragraph at lines 43--44
 und in the datasheet[[]].
  []
 
-<imagenes/Cuadricoptero_vision/pixel_OV7670.png, id=1938, 316.18124pt x 170.888
+<imagenes/Cuadricoptero_vision/pixel_OV7670.png, id=1936, 316.18124pt x 170.888
 44pt>
 File: imagenes/Cuadricoptero_vision/pixel_OV7670.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/pixel_OV7670.png>
 Package pdftex.def Info: imagenes/Cuadricoptero_vision/pixel_OV7670.png  used o
 n input line 51.
 (pdftex.def)             Requested size: 189.7102pt x 85.46208pt.
-<imagenes/Cuadricoptero_vision/I2C_write.PNG, id=1941, 323.70938pt x 263.48438p
+<imagenes/Cuadricoptero_vision/I2C_write.PNG, id=1939, 323.70938pt x 263.48438p
 t>
 File: imagenes/Cuadricoptero_vision/I2C_write.PNG Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/I2C_write.PNG>
@@ -2085,7 +2085,7 @@ ro_vision/OV7670.jpg>]
 
 pdfTeX warning: pdflatex.exe (file ./imagenes/Cuadricoptero_vision/I2C_WRITE.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Cuadricoptero_vision/I2C_WRITE.pdf, id=1950, 615.29875pt x 1520.68124
+<imagenes/Cuadricoptero_vision/I2C_WRITE.pdf, id=1948, 615.29875pt x 1520.68124
 pt>
 File: imagenes/Cuadricoptero_vision/I2C_WRITE.pdf Graphic file (type pdf)
 <use imagenes/Cuadricoptero_vision/I2C_WRITE.pdf>
@@ -2097,7 +2097,7 @@ Overfull \vbox (13.62268pt too high) has occurred while \output is active []
 
 
 [103 <./imagenes/Cuadricoptero_vision/I2C_WRITE.pdf>]
-<imagenes/Cuadricoptero_vision/OV7670_schematic.png, id=1971, 334.24875pt x 205
+<imagenes/Cuadricoptero_vision/OV7670_schematic.png, id=1969, 334.24875pt x 205
 .9695pt>
 File: imagenes/Cuadricoptero_vision/OV7670_schematic.png Graphic file (type png
 )
@@ -2105,7 +2105,7 @@ File: imagenes/Cuadricoptero_vision/OV7670_schematic.png Graphic file (type png
 Package pdftex.def Info: imagenes/Cuadricoptero_vision/OV7670_schematic.png  us
 ed on input line 86.
 (pdftex.def)             Requested size: 233.97252pt x 144.17764pt.
-<imagenes/Cuadricoptero_vision/triestado.png, id=1975, 258.9675pt x 187.45032pt
+<imagenes/Cuadricoptero_vision/triestado.png, id=1973, 258.9675pt x 187.45032pt
 >
 File: imagenes/Cuadricoptero_vision/triestado.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/triestado.png>
@@ -2113,7 +2113,7 @@ Package pdftex.def Info: imagenes/Cuadricoptero_vision/triestado.png  used on i
 nput line 100.
 (pdftex.def)             Requested size: 155.38168pt x 112.47104pt.
  [104 <./imagenes/Cuadricoptero_vision/OV7670_schematic.png>]
-<imagenes/Cuadricoptero_vision/i2c_example.png, id=1983, 796.47563pt x 64.74188
+<imagenes/Cuadricoptero_vision/i2c_example.png, id=1981, 796.47563pt x 64.74188
 pt>
 File: imagenes/Cuadricoptero_vision/i2c_example.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/i2c_example.png>
@@ -2132,7 +2132,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
 [105 <./imagenes/Cuadricoptero_vision/triestado.png> <./imagenes/Cuadricoptero_
 vision/i2c_example.png>]
-<imagenes/Cuadricoptero_vision/filas_module.png, id=1999, 204.765pt x 139.11975
+<imagenes/Cuadricoptero_vision/filas_module.png, id=1997, 204.765pt x 139.11975
 pt>
 File: imagenes/Cuadricoptero_vision/filas_module.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/filas_module.png>
@@ -2140,7 +2140,7 @@ Package pdftex.def Info: imagenes/Cuadricoptero_vision/filas_module.png  used o
 n input line 172.
 (pdftex.def)             Requested size: 122.85992pt x 83.47249pt.
  [106]
-<imagenes/Cuadricoptero_vision/columnas_module.png, id=2012, 241.50224pt x 139.
+<imagenes/Cuadricoptero_vision/columnas_module.png, id=2010, 241.50224pt x 139.
 11975pt>
 File: imagenes/Cuadricoptero_vision/columnas_module.png Graphic file (type png)
 
@@ -2153,21 +2153,21 @@ d on input line 179.
 pdfTeX warning: pdflatex.exe (file ./imagenes/Cuadricoptero_vision/row_counter.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<imagenes/Cuadricoptero_vision/row_counter.pdf, id=2014, 598.235pt x 845.1575pt
+<imagenes/Cuadricoptero_vision/row_counter.pdf, id=2012, 598.235pt x 845.1575pt
 >
 File: imagenes/Cuadricoptero_vision/row_counter.pdf Graphic file (type pdf)
 <use imagenes/Cuadricoptero_vision/row_counter.pdf>
 Package pdftex.def Info: imagenes/Cuadricoptero_vision/row_counter.pdf  used on
  input line 189.
 (pdftex.def)             Requested size: 299.11676pt x 194.95624pt.
-<imagenes/Cuadricoptero_vision/sincronismo3.png, id=2019, 1096.095pt x 261.9787
+<imagenes/Cuadricoptero_vision/sincronismo3.png, id=2017, 1096.095pt x 261.9787
 4pt>
 File: imagenes/Cuadricoptero_vision/sincronismo3.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/sincronismo3.png>
 Package pdftex.def Info: imagenes/Cuadricoptero_vision/sincronismo3.png  used o
 n input line 198.
 (pdftex.def)             Requested size: 328.83104pt x 78.59422pt.
-<imagenes/Cuadricoptero_vision/sincronismo1.png, id=2020, 557.83406pt x 107.652
+<imagenes/Cuadricoptero_vision/sincronismo1.png, id=2018, 557.83406pt x 107.652
 19pt>
 File: imagenes/Cuadricoptero_vision/sincronismo1.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/sincronismo1.png>
@@ -2177,7 +2177,7 @@ n input line 204.
 [107 <./imagenes/Cuadricoptero_vision/row_counter.pdf> <./imagenes/Cuadricopter
 o_vision/filas_module.png> <./imagenes/Cuadricoptero_vision/columnas_module.png
 >]
-<imagenes/Cuadricoptero_vision/sincronismo2.png, id=2035, 453.94594pt x 96.36pt
+<imagenes/Cuadricoptero_vision/sincronismo2.png, id=2033, 453.94594pt x 96.36pt
 >
 File: imagenes/Cuadricoptero_vision/sincronismo2.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/sincronismo2.png>
@@ -2189,7 +2189,7 @@ n input line 210.
 pdfTeX warning: pdflatex.exe (file ./imagenes/Cuadricoptero_vision/assign_pixel
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
-<imagenes/Cuadricoptero_vision/assign_pixel.pdf, id=2041, 600.2425pt x 849.1725
+<imagenes/Cuadricoptero_vision/assign_pixel.pdf, id=2039, 600.2425pt x 849.1725
 pt>
 File: imagenes/Cuadricoptero_vision/assign_pixel.pdf Graphic file (type pdf)
 <use imagenes/Cuadricoptero_vision/assign_pixel.pdf>
@@ -2198,7 +2198,7 @@ n input line 243.
 (pdftex.def)             Requested size: 300.12051pt x 253.86911pt.
 [108 <./imagenes/Cuadricoptero_vision/sincronismo3.png> <./imagenes/Cuadricopte
 ro_vision/sincronismo1.png> <./imagenes/Cuadricoptero_vision/sincronismo2.png>]
-<imagenes/Cuadricoptero_vision/assign_bits.png, id=2053, 236.082pt x 346.896pt>
+<imagenes/Cuadricoptero_vision/assign_bits.png, id=2051, 236.082pt x 346.896pt>
 
 File: imagenes/Cuadricoptero_vision/assign_bits.png Graphic file (type png)
 <use imagenes/Cuadricoptero_vision/assign_bits.png>
@@ -2216,7 +2216,7 @@ ro_vision/assign_bits.png>]
 pdfTeX warning: pdflatex.exe (file ./imagenes/Cuadricoptero_vision/control_impl
 ementation.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
 .5> allowed
-<imagenes/Cuadricoptero_vision/control_implementation.pdf, id=2079, 846.16125pt
+<imagenes/Cuadricoptero_vision/control_implementation.pdf, id=2077, 846.16125pt
  x 598.235pt>
 File: imagenes/Cuadricoptero_vision/control_implementation.pdf Graphic file (ty
 pe pdf)
@@ -2317,9 +2317,9 @@ public/amsfonts/cm/cmsy7.pfb><C:/Users/jordo/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jordo/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/jordo/AppData/
 Local/Programs/MiKTeX 2.9/fonts/type1/public/eurosym/feybr10.pfb>
-Output written on TFG.pdf (123 pages, 11254434 bytes).
+Output written on TFG.pdf (123 pages, 11234232 bytes).
 PDF statistics:
- 2325 PDF objects out of 2487 (max. 8388607)
+ 2323 PDF objects out of 2487 (max. 8388607)
  355 named destinations out of 1000 (max. 500000)
  1091 words of extra memory for PDF output out of 10000 (max. 10000000)
 
